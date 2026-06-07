@@ -79,4 +79,4 @@ cat network_report.txt
 ![Report file created](Screenshots/report_file_created.jpeg)
 
 ### Report File Output
-![Displayed report file](Screenshots/report_file_output.png)
+![Displayed report file](Screenshots/report_file_output.jpeg)
