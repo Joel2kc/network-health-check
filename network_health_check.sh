@@ -7,9 +7,8 @@ log() {
     echo "$1" | tee -a $REPORT
 }
 
-log "========================================"
+log ""
 log "       Network Health Check Report      "
-log "========================================"
 log ""
 
 log "SERVER INFORMATION"
@@ -57,6 +56,7 @@ for site in google.com github.com amazon.com; do
 done
 log ""
 
-log "========================================"
+log ""
 log "Report saved : $(date)"
 log "Output file  : $REPORT"
+log ""
