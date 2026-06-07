@@ -68,3 +68,15 @@ cat network_report.txt
 ---
 
 ## Sample Output
+
+### Script Execution
+![Script running in terminal](Screenshots/Script_running.jpeg)
+
+## Report Output Display
+![Script output displayed in terminal](Screenshots/report_displayed_in_terminal.jpeg)
+
+### Report Created
+![Report file created](Screenshots/report_file_created.jpeg)
+
+### Report File Output
+![Displayed report file](Screenshots/report_file_output.png)
