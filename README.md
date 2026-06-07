@@ -72,7 +72,7 @@ cat network_report.txt
 ### Script Execution
 ![Script running in terminal](Screenshots/Script_running.jpeg)
 
-## Report Output Display
+### Report Output Display
 ![Script output displayed in terminal](Screenshots/report_displayed_in_terminal.jpeg)
 
 ### Report Created
